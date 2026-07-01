@@ -1,7 +1,7 @@
 {
   "agents": {
     "defaults": {
-      "model": "gpt-4o-mini",
+      "model": "deepseek-chat",
       "provider": "openai",
       "max_tokens": 4096,
       "temperature": 0.7
